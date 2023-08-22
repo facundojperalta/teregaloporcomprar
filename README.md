@@ -4,4 +4,4 @@ Pospago Hogar Corporativo
 Telefonia TV Internet
 Colombia
 
-Link: https://pupinax.github.io/teregaloporcomprar/
+Link: https://facundojperalta.github.io/teregaloporcomprar/
